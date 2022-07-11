@@ -1,0 +1,3 @@
+NODE_ENV = ''
+PORT = xxxx
+MONGO_URI = 'mongodb+srv://<username>:<password>@cluster0.g42cp.mongodb.net/mgmt_db?retryWrites=true&w=majority'
